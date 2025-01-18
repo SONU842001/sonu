@@ -2,6 +2,7 @@
 
 ###
 
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -47,8 +48,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
 </div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SONU842001&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SONU842001&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SONU842001&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ayushsinhahaha&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SONU842001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SONU842001&theme=onedark)](https://github.com/SONU842001/github-profile-trophy)
+---
+[![](https://visitcount.itsvg.in/api?id=SONU842001&icon=2&color=1)](https://visitcount.itsvg.in)
 
 ###
