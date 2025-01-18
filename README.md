@@ -49,6 +49,6 @@
 </div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SONU842001&theme=onedark)](https://github.com/SONU842001/github-profile-trophy)
 
 ###
